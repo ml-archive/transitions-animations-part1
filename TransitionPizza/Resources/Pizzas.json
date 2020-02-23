@@ -1,0 +1,37 @@
+{
+   "count":4,
+   "results":[
+      {
+         "id":1,
+         "title":"Anchovy",
+         "description":"There’s a reason that real Italian pizza has anchovies: these little fish are chock full of savory, salty, umami flavor. In addition to tasting great, anchovies are some of the most nutritious and sustainable fish on the planet: they’re full of Omega 3’s and protein. Anchovy pizza is a classic Italian dish that’s elegantly simple and perfect with a simple salad and a glass of wine.",
+         "price":250,
+         "currency":"CZK",
+				 "hexBackgroundColor": "ac8c5f"
+      },
+      {
+         "id":2,
+         "title":"Margherita",
+         "description":"Pizza Margherita (more commonly known in English as Margherita pizza) is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil. Traditionally, it is made with fior di latte (cow's milk mozzarella) rather than buffalo mozzarella.",
+         "price":265,
+         "currency":"CZK",
+				 "hexBackgroundColor": "faeecd"
+      },
+      {
+         "id":3,
+         "title":"Prosciutto",
+         "description":"The peppery arugula combined with the paper-thin salty prosciutto and the buttery parmesan on a crispy crust makes the perfect Spring dinner",
+         "price":280,
+         "currency":"CZK",
+				 "hexBackgroundColor": "a0be64"
+      },
+      {
+         "id":4,
+         "title":"Tomato",
+         "description":"This summery pizza topped with juicy fresh tomatoes is simple, classic, and totally satisfying.",
+         "price":180,
+         "currency":"CZK",
+				 "hexBackgroundColor": "f08132"
+      }
+   ]
+}
